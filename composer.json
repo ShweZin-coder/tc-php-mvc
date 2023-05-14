@@ -1,0 +1,15 @@
+{
+    "name": "tc/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Tc\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danielhardin",
+            "email": "danielhardin581@gmail.com"
+        }
+    ],
+    "require": {}
+}
