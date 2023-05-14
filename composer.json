@@ -2,7 +2,7 @@
     "name": "shwezin-coder/tc-php-mvc",
     "autoload": {
         "psr-4": {
-            "Tc\\PhpMvcCore\\": "src/"
+            "app\\" : "./"
         }
     },
     "authors": [
